@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -32,12 +32,10 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/yingying-fan/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=amtNDEgAAAAJ&hl=en
 
 education:
   - area: PhD Artificial Intelligence
