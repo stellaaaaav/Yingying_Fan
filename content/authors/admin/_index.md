@@ -38,23 +38,33 @@ profiles:
     url: https://scholar.google.com/citations?user=amtNDEgAAAAJ&hl=en
 
 education:
-  - area: PhD Integrated Circuit and System
-    institution: Rice University
-    date_start: 2019-08
-    date_end: 2024-12
-  - area: MS VLSI and Power Electronics
-    institution: University of Michigan
-    date_start: 2017-08
-    date_end: 2019-05
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 4.0/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BENG Information Engineering
     institution: Southeast University (China)
     date_start: 2013-08
     date_end: 2017-05
     summary: |
       GPA: 3.92/4.0
-
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
