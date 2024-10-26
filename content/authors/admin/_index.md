@@ -3,7 +3,7 @@
 title: Yingying Fan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Yingying
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Rice University
-    url: https://www.example.com/
+    url: https://chilab.info/team/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
