@@ -2,7 +2,6 @@
 # Display name
 title: Yingying Fan
 
-<<<<<<< HEAD
 # Name pronunciation (optional)
 name_pronunciation: ying ying fan
 
